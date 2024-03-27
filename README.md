@@ -5,3 +5,7 @@
 #assignment4:https://github.com/LagisettyCharankumar/AIML2024/blob/main/2203A51606.ipynb
 
 #assigment5:https://github.com/LagisettyCharankumar/AIML2024/blob/main/AIML%202203A51606_Assignment_5.ipynb
+
+#assignment-6:https://github.com/LagisettyCharankumar/AIML2024/blob/main/2203A51606_ASS_6.ipynb
+
+
