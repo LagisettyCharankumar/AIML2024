@@ -9,3 +9,6 @@
 #assignment-6:https://github.com/LagisettyCharankumar/AIML2024/blob/main/2203A51606_ASS_6.ipynb
 
 #assignment-7:https://github.com/LagisettyCharankumar/AIML2024/blob/main/2203A51606_ass_7.ipynb
+
+
+#assignment-8:https://github.com/LagisettyCharankumar/AIML2024/blob/main/2203a51606-9-AIML_AS.ipynb
