@@ -12,3 +12,7 @@
 
 
 #assignment-8:https://github.com/LagisettyCharankumar/AIML2024/blob/main/2203a51606-9-AIML_AS.ipynb
+
+
+AI&ML project:https://github.com/LagisettyCharankumar/AIML2024/blob/main/AI%26ML.ipynb
+
